@@ -1,6 +1,7 @@
 ﻿
 
 using Plugin.Maui.Audio;
+using System.Diagnostics;
 
 namespace EOKeksi;
 
@@ -23,7 +24,7 @@ public partial class MainPage : ContentPage
         }
         catch (Exception evirhe)
         {
-            Console.WriteLine("Soundplayer failure" + evirhe);
+            Debug.WriteLine("Soundplayer failure" + evirhe);
         }
 
         Misfortune BadLuckBaby = new();
