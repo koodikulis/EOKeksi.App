@@ -26,27 +26,37 @@
             </Frame>
 
 
-
-            <Label
+ 
+            
+                <Label
                 Text="Epäonnenkeksi! 不幸的饼干!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
-
-            <Label
+            
+          
+                
+                <Label
                 x:Name="LabelMisfortuneFin"
                 Text=""
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I"
                 FontSize="18"
+                 FontFamily="Roboto"
                 HorizontalOptions="Center" />
-            <Label
+           
+ 
+                <Label
                 x:Name="LabelMisfortuneChinese"
                 Text=""
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                FontFamily="Roboto"
                 FontSize="18"
                 HorizontalOptions="Center" />
+            
+            
+
 
             <Button
                 x:Name="CounterBtn"

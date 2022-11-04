@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Resources/Fonts/Roboto-ThinItalic.ttf
+/Resources/Fonts/Roboto-Thin.ttf
+/Resources/Fonts/Roboto-Regular.ttf
+/Resources/Fonts/Roboto-MediumItalic.ttf
+/Resources/Fonts/Roboto-Medium.ttf
+/Resources/Fonts/Roboto-LightItalic.ttf
+/Resources/Fonts/Roboto-Light.ttf
+/Resources/Fonts/Roboto-Italic.ttf
+/Resources/Fonts/Roboto-BoldItalic.ttf
+/Resources/Fonts/Roboto-Bold.ttf
+/Resources/Fonts/Roboto-BlackItalic.ttf
+/Resources/Fonts/Roboto-Black.ttf
