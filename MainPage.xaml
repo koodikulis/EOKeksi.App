@@ -38,14 +38,6 @@
                 HorizontalOptions="Center" />
            
  
-                <Label
-                x:Name="LabelMisfortuneChinese"
-                Text=""
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Label for the gotten fortune cookie"
-                FontFamily="Roboto"
-                FontSize="18"
-                HorizontalOptions="Center" />
             
             
 

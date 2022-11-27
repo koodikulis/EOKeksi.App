@@ -30,7 +30,7 @@ public partial class MainPage : ContentPage
         Misfortune BadLuckBaby = new();
         BadLuckBaby.GetMisfortune();
         LabelMisfortuneFin.Text = BadLuckBaby.TextFin;
-        //LabelMisfortuneChinese.Text = BadLuckBaby.TextChinese;
+        
     }
 }
 

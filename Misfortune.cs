@@ -3,29 +3,29 @@
     internal class Misfortune
     {
         public string TextFin { get; set; }
-        //public string TextChinese { get; set; }
 
         readonly List<string> MisfortunesFinPart1 = new()
         {
-        "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta haisevan ", "Ymmärrät ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Marjastamassa kohtaat "
+        "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta haisevan ", "Ymmärrät ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Sienestämässä kohtaat "
         };
         readonly List<string> MisfortunesFinPart2 = new()
         {
-         "henkilön ", "kuusi sorminen lapsen ", "varjon pimeässä ", "paaviksi pukeutuneen nuoren naisen ", "puolison menneestä elämästäsi ", "lapsesi tulevaisuudesta ", "haisevan alkoholistin, jonka housuihin on ommeltu nimikirjaimet JFK ", "eksyneen marjastajan", 
+         "henkilön ", "kuusi sorminen lapsen ", "varjon pimeässä ", "paaviksi pukeutuneen nuoren naisen ", "puolison menneestä elämästäsi ", "lapsesi tulevaisuudesta ", "epätavallisen hyvältä haisevan alkoholistin, jonka housuihin on ommeltu nimikirjaimet JFK ",
+            "eksyneen marjastajan ", 
             "kauan sitten kuolleen tunnnetun jazz-muusikon "
         };
         readonly List<string> MisfortunesFinPart3 = new()
         {
-         "joka kuiskaa paikan josta löydät ", "jonka tatuointi alaselässä kertoo sijainnnin josta löydät ", "joka ojentaa sinulle ", "joka myöhemmin lähettää kirjeen kotiisi joka sisältää ", "ottaa taskustaan pienen tuntemattoman instrumentit jolla soittaa "
+         "joka kuiskaa paikan josta löydät ", "jonka tatuointi alaselässä kertoo sijainnnin josta löydät ", "joka ojentaa sinulle ", "joka myöhemmin lähettää kirjeen kotiisi joka sisältää ", "ottaa taskustaan pienen tuntemattoman instrumentin jolla soittaa "
         };
         readonly List<string> MisfortunesFinPart4 = new()
         {
-            "totuuden ", "valheen ", "tärkeän tiedon ", "epämääräistä tekstiä", "haalistuneen lottotositteen vuosien takaa, jonka taakse on lyijykynällä piirretty kuva kissasta ", "lyhyen mutta kauniin melodian "
+            "totuuden ", "valheen ", "tärkeän tiedon ", "epämääräistä tekstiä ", "haalistuneen lottotositteen vuosien takaa, jonka taakse on lyijykynällä piirretty kuva kissasta ", "lyhyen mutta kauniin melodian "
         };
         readonly List<string> MisfortunesFinPart5 = new()
         {
-            ", älä unohda sitä.", ", kirjoita se postikorttiin jonka lähetät etäiselle sukulaisellesi.", ", se ohjaa sinua matkallasi.", ", olet nyt varma ettemme ole yksin universumissa.", "syystä jota et ymmärrä vietät seuraavan viikon itkien sängyssäsi.",
-            "muista se kun sinulta kysytään viimeisiä sanojasi.", "tämä tietoo saattaa sinut pelastaa.", ", jos eksyt unessasi metsään vain tämä tieto saattaa johdattaa sinut sieltä pois.", "kuiskaa se lapsenlapsesi korvaan vuosien päästä."
+            ", älä unohda sitä.", ", tallenna se postikorttiin jonka lähetät etäiselle sukulaisellesi.", ", se ohjaa sinua matkallasi.", ", olet nyt varma ettemme ole yksin universumissa.", ", et ymmärrä miksi vietät seuraavan viikon onnellisena sängyssäsi.",
+            ", muista se kun sinulta kysytään viimeisiä sanojasi.", ", tämä tietoo saattaa sinut pelastaa.", ", jos eksyt unessasi metsään vain tämä saattaa johdattaa sinut sieltä pois.", ", kuiskaa se läheisesi korvaan vuosien päästä."
         };
 
 
