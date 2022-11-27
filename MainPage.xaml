@@ -6,30 +6,22 @@
     <ScrollView>
         <VerticalStackLayout
             Spacing="25"
-            Padding="30,0"
+            Padding="50,0"
             VerticalOptions="Center">
 
 
-            <Frame Margin="10"
-                BorderColor="Black"
-                CornerRadius="250"
-                HeightRequest="250"
-                WidthRequest="250"
-                IsClippedToBounds="True"
-                HorizontalOptions="Center"
-                VerticalOptions="Center">
-                <Image Source="keksi.jpg"
-                 Aspect="AspectFill"
-                 Margin="-15"
-                 HeightRequest="250"
-                 WidthRequest="250" />
-            </Frame>
+                <Image Source="pyrakeksi.jpg"
+                 Aspect="AspectFit"
+                 Margin="50"
+                 HeightRequest="350"
+                 WidthRequest="350" />
+            
 
 
  
             
                 <Label
-                Text="Epäonnenkeksi! 不幸的饼干!"
+                Text="Pyraonnenkeksi! 火焰兵幸運餅乾!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
@@ -50,7 +42,7 @@
                 x:Name="LabelMisfortuneChinese"
                 Text=""
                 SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I"
+                SemanticProperties.Description="Label for the gotten fortune cookie"
                 FontFamily="Roboto"
                 FontSize="18"
                 HorizontalOptions="Center" />
@@ -60,8 +52,8 @@
 
             <Button
                 x:Name="CounterBtn"
-                Text="Epäonnenennustaja. 不幸的预兆."
-                SemanticProperties.Hint="Counts the number of times you click"
+                Text="Pyraonnenennustaja. 火焰兵算命先生."
+                SemanticProperties.Hint="Button for getting cookie"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
 

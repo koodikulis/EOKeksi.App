@@ -61,7 +61,7 @@
 	  <None Remove="Resources\Fonts\Roboto-Regular.ttf" />
 	  <None Remove="Resources\Fonts\Roboto-Thin.ttf" />
 	  <None Remove="Resources\Fonts\Roboto-ThinItalic.ttf" />
-	  <None Remove="Resources\Images\keksi.jpg" />
+	  <None Remove="Resources\Images\pyrakeksi.jpg" />
 	  <None Remove="Resources\Raw\crack.mp3" />
 	</ItemGroup>
 
