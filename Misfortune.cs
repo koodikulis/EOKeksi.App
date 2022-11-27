@@ -4,19 +4,24 @@
     {
         public string TextFin { get; set; }
 
+
+        //TODO: transfer text to .txt file and read with List<string> allLinesText = File.ReadAllLines(fileName).ToList()
+
+
         readonly List<string> MisfortunesFinPart1 = new()
         {
-        "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta haisevan ", "Ymmärrät ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Sienestämässä kohtaat "
+        "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta tuoksuvan ", "Ymmärrät ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Sienestämässä kohtaat ", "Synkimmän painajaisesi keskellä kohtaat ", "Kaivon pohjalla näet ", "Virittämättömän televisiokuvan kohinassa ",
+        "Ostoskeskuksen vessassa vaihdat lyhyen katseen "
         };
         readonly List<string> MisfortunesFinPart2 = new()
         {
-         "henkilön ", "kuusi sorminen lapsen ", "varjon pimeässä ", "paaviksi pukeutuneen nuoren naisen ", "puolison menneestä elämästäsi ", "lapsesi tulevaisuudesta ", "epätavallisen hyvältä haisevan alkoholistin, jonka housuihin on ommeltu nimikirjaimet JFK ",
+         "henkilön ", "kuusi sormisen lapsen ", "varjon pimeässä ", "paaviksi pukeutuneen nuoren naisen ", "puolison menneestä elämästäsi ", "lapsesi toisesta elämästä ", "epätavallisen hyvältä haisevan alkoholistin, jonka housuihin on ommeltu nimikirjaimet JFK ",
             "eksyneen marjastajan ", 
-            "kauan sitten kuolleen tunnnetun jazz-muusikon "
+            "kauan sitten kuolleen tunnnetun jazz-muusikon ", "riikinkukon ", "palomiehen ", "vieraan miehen ", "lastenhoitajasi lapsuudesta ", "isovanhempasi nuorina ", "pahaa energiaa säteilevän kassaneidin ", "olennon joka loistaa tuntemattomissa väreissä joita ei esiinny luonnossa maapallolla "
         };
         readonly List<string> MisfortunesFinPart3 = new()
         {
-         "joka kuiskaa paikan josta löydät ", "jonka tatuointi alaselässä kertoo sijainnnin josta löydät ", "joka ojentaa sinulle ", "joka myöhemmin lähettää kirjeen kotiisi joka sisältää ", "ottaa taskustaan pienen tuntemattoman instrumentin jolla soittaa "
+         "joka kuiskaa paikan josta löydät ", "jonka tatuointi alaselässä kertoo sijainnnin josta löydät ", "joka ojentaa sinulle ", "joka myöhemmin lähettää kirjeen kotiisi joka sisältää ", "joka ottaa taskustaan pienen tuntemattoman instrumentin jolla soittaa ", "joka pitelee pesäpallomailaa johon tiedät että on kaiverrettu "
         };
         readonly List<string> MisfortunesFinPart4 = new()
         {
@@ -24,7 +29,7 @@
         };
         readonly List<string> MisfortunesFinPart5 = new()
         {
-            ", älä unohda sitä.", ", tallenna se postikorttiin jonka lähetät etäiselle sukulaisellesi.", ", se ohjaa sinua matkallasi.", ", olet nyt varma ettemme ole yksin universumissa.", ", et ymmärrä miksi vietät seuraavan viikon onnellisena sängyssäsi.",
+            ", älä unohda sitä.", ", tallenna se postikorttiin jonka lähetät etäiselle sukulaisellesi.", ", se ohjatkoon sinua matkallasi.", ", olet nyt varma ettemme ole yksin universumissa.", ", et ymmärrä miksi vietät seuraavan viikon onnellisena sängyssäsi.",
             ", muista se kun sinulta kysytään viimeisiä sanojasi.", ", tämä tietoo saattaa sinut pelastaa.", ", jos eksyt unessasi metsään vain tämä saattaa johdattaa sinut sieltä pois.", ", kuiskaa se läheisesi korvaan vuosien päästä."
         };
 
