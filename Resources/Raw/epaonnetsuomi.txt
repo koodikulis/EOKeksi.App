@@ -1,0 +1,7 @@
+"Soittamalla Metallican kill em all -levyä keskellä yötä saa naapurisi tuomaan sinulle epäonnea aamulla.",
+"Pelaamasi rivit lottoa johtavat rahan menetykseen.",
+"Kissanruoka loppuu, josta suuttuneena kissa raapii pilalle tapettisi",
+"Olet vuosia tervehtinyt Naapuriasi nimellä Pasi. Tänään sinulle selviää, että Pasin oikea nimi onkin Sami.",
+"Astut legoon olohuoneessa. Omituiseksi asian tekee se ettei sinulla ole lapsia ja viimeksi olet leikkinyt tai omistanut legoja kymmeniä vuosia sitten. Et saa tätä asiaa mielestäsi viikkoihin.",
+"Ostat väärää ketsuppia. Jälleen kerran! Vaimosi syö vain Heinz-ketsuppia ei Feliz. Vaimosi mököttää seuraavan päivän.",
+"Maistat lempituotteesi uutuusmakua. Se ei maistu hyvältä eikä huonolta."

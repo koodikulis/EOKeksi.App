@@ -11,17 +11,18 @@
         readonly List<string> MisfortunesFinPart1 = new()
         {
         "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta tuoksuvan ", "Ymmärrät ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Sienestämässä kohtaat ", "Synkimmän painajaisesi keskellä kohtaat ", "Kaivon pohjalla näet ", "Virittämättömän televisiokuvan kohinassa ",
-        "Ostoskeskuksen vessassa vaihdat lyhyen katseen "
+        "Ostoskeskuksen vessassa vaihdat lyhyen katseen ", "Vanhassa saunamökissä järven rannalla ", "Sumuisen järven veden pinnassa "
         };
         readonly List<string> MisfortunesFinPart2 = new()
         {
          "henkilön ", "kuusi sormisen lapsen ", "varjon pimeässä ", "paaviksi pukeutuneen nuoren naisen ", "puolison menneestä elämästäsi ", "lapsesi toisesta elämästä ", "epätavallisen hyvältä haisevan alkoholistin, jonka housuihin on ommeltu nimikirjaimet JFK ",
             "eksyneen marjastajan ", 
-            "kauan sitten kuolleen tunnnetun jazz-muusikon ", "riikinkukon ", "palomiehen ", "vieraan miehen ", "lastenhoitajasi lapsuudesta ", "isovanhempasi nuorina ", "pahaa energiaa säteilevän kassaneidin ", "olennon joka loistaa tuntemattomissa väreissä joita ei esiinny luonnossa maapallolla "
+            "kauan sitten kuolleen tunnnetun jazz-muusikon ", "riikinkukon ", "palomiehen ", "vieraan miehen ", "lastenhoitajasi lapsuudesta ", "isovanhempasi nuorena ", "pahaa energiaa säteilevän kassaneidin ", "olennon joka loistaa tuntemattomissa väreissä joita ei esiinny luonnossa maapallolla "
         };
         readonly List<string> MisfortunesFinPart3 = new()
         {
          "joka kuiskaa paikan josta löydät ", "jonka tatuointi alaselässä kertoo sijainnnin josta löydät ", "joka ojentaa sinulle ", "joka myöhemmin lähettää kirjeen kotiisi joka sisältää ", "joka ottaa taskustaan pienen tuntemattoman instrumentin jolla soittaa ", "joka pitelee pesäpallomailaa johon tiedät että on kaiverrettu "
+            "joka kohisee kuin epäviritetty radio. Kuuntelet tarkkaan ja erotat kohinasta  "
         };
         readonly List<string> MisfortunesFinPart4 = new()
         {
