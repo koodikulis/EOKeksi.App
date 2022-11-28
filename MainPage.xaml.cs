@@ -30,7 +30,13 @@ public partial class MainPage : ContentPage
         Misfortune BadLuckBaby = new();
         BadLuckBaby.GetMisfortune();
         LabelMisfortuneFin.Text = BadLuckBaby.TextFin;
-        
+        CounterBtn.IsEnabled= false;
+    }
+
+    private void ImageButton_Clicked(object sender, EventArgs e)
+    {
+        CounterBtn.IsEnabled = true;
+        LabelMisfortuneFin.Text = "";
     }
 }
 

@@ -10,11 +10,14 @@
             VerticalOptions="Center">
 
 
-                <Image Source="pyrakeksi.jpg"
+                <ImageButton 
+                 Source="pyrakeksi.jpg"
                  Aspect="AspectFit"
                  Margin="50"
                  HeightRequest="350"
-                 WidthRequest="350" />
+                 WidthRequest="350"
+                 Clicked="ImageButton_Clicked"   
+                    />
             
 
 
@@ -47,7 +50,8 @@
                 Text="Pyraonnenennustaja. 火焰兵算命先生."
                 SemanticProperties.Hint="Button for getting cookie"
                 Clicked="OnCounterClicked"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center" 
+                IsEnabled="True"/>
 
         </VerticalStackLayout>
     </ScrollView>

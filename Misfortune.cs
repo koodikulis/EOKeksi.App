@@ -10,29 +10,32 @@
 
         readonly List<string> MisfortunesFinPart1 = new()
         {
-        "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta tuoksuvan ", "Ymmärrät ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Sienestämässä kohtaat ", "Synkimmän painajaisesi keskellä kohtaat ", "Kaivon pohjalla näet ", "Virittämättömän televisiokuvan kohinassa näet ",
-        "Ostoskeskuksen vessassa vaihdat lyhyen katseen ", "Vanhassa saunamökissä järven rannalla ", "Sumuisen järven veden pinnassa näet "
+        "Kohtaat värittömän ", "Kohtaat mysteerisen ", "Kohtaat vesimelooneilta tuoksuvan ", "Ymmärryksesi todellisuudesta hämärtyy kun kohtaat  ", "Näet unessa ", "Tunnet kosmisen, ", "Ennustajan hämärässä huoneessa tunnet ", "Haistat ", "Eksyneenä metsään kohtaat ", "Sienestämässä kohtaat ", "Synkimmän painajaisesi keskellä kohtaat ", "Kaivon pohjalla näet ", "Virittämättömän televisiokuvan kohinassa näet ",
+        "Ostoskeskuksen vessassa vaihdat lyhyen katseen ", "Vanhassa saunamökissä järven rannalla kohtaat ", "Sumuisen järven veden pinnassa näet "
         };
         readonly List<string> MisfortunesFinPart2 = new()
         {
          "henkilön ", "kuusi sormisen lapsen ", "varjon pimeässä ", "paaviksi pukeutuneen nuoren naisen ", "puolison menneestä elämästäsi ", "lapsesi toisesta elämästä ", "epätavallisen hyvältä haisevan alkoholistin, jonka housuihin on ommeltu nimikirjaimet JFK ",
             "eksyneen marjastajan ", 
-            "kauan sitten kuolleen tunnnetun jazz-muusikon ", "riikinkukon ", "palomiehen ", "vieraan miehen ", "lastenhoitajasi lapsuudesta ", "isovanhempasi nuorena ", "pahaa energiaa säteilevän kassaneidin ", "olennon joka loistaa tuntemattomissa väreissä joita ei esiinny luonnossa maapallolla ", "amerikkailaisen vapaa-painijan ", "pienen sinisen olennon ",
-            "valkoisen lampaan jonka otsaan on kaiverrettu epämiellyttävä kuvio ", "leimasinta pitelevä mieheltä näyttävä hahmo "
+            "kauan sitten kuolleen tunnnetun jazz-muusikon ", "riikinkukon ", "palomiehen ", "vieraan miehen ", "lastenhoitajasi lapsuudesta ", "isovanhempasi nuorena ", "pahaa energiaa säteilevän kassaneidin ", "olennon joka loistaa tuntemattomissa väreissä joita ei esiinny luonnossa maapallolla ", "amerikkalaisen vapaa-painijan ", "pienen sinisen olennon ",
+            "valkoisen lampaan jonka otsaan on kaiverrettu epämiellyttävä kuvio ", "valtavaa leimasinta pitelevän hahmon ", "harmaan pöllön ", "nuoren spede pasasen ", "Seppo Boismanin haamun "
         };
         readonly List<string> MisfortunesFinPart3 = new()
         {
          "joka kuiskaa paikan josta löydät ", "jonka tatuointi alaselässä kertoo sijainnnin josta löydät ", "joka ojentaa sinulle ", "joka myöhemmin lähettää kirjeen kotiisi joka sisältää ", "joka ottaa taskustaan pienen tuntemattoman instrumentin jolla soittaa ", "joka pitelee pesäpallomailaa johon tiedät että on kaiverrettu ",
-            "joka kohisee kuin epäviritetty radio. Kuuntelet tarkkaan ja erotat kohinasta  "
+            "joka kohisee kuin epäviritetty radio. Kuuntelet tarkkaan ja erotat kohinasta  ", "halaa sinua samalla tiputtae taskuusi viestin josta luet myöhemmin "
         };
         readonly List<string> MisfortunesFinPart4 = new()
         {
-            "totuuden ", "valheen ", "tärkeän tiedon ", "epämääräistä tekstiä ", "haalistuneen lottotositteen vuosien takaa, jonka taakse on lyijykynällä piirretty kuva kissasta ", "lyhyen mutta kauniin melodian "
+            "totuuden ", "valheen ", "tärkeän tiedon ", "epämääräistä tekstiä ", "listan lentävistälautasista tehdyistä havainnoista vuosina '83-'84 ", "haalistuneen lottotositteen vuosien takaa, jonka taakse on lyijykynällä piirretty kuva kissasta ", "lyhyen mutta kauniin melodian ", 
+            "viestin: \"Tämä on vettä, ja tämä on kaivo. Juo kunnolla ja kohoa.\" ","viestin: \"Ihahaa Ihahaa hevonen paskantaa. \" ", "tärkeän viestin: \"jousisoitinperheeseen kuuluu neljä soitinta\" "
+
         };
         readonly List<string> MisfortunesFinPart5 = new()
         {
             ", älä unohda sitä.", ", tallenna se postikorttiin jonka lähetät etäiselle sukulaisellesi.", ", se ohjatkoon sinua matkallasi.", ", olet nyt varma ettemme ole yksin universumissa.", ", et ymmärrä miksi vietät seuraavan viikon onnellisena sängyssäsi.",
-            ", muista se kun sinulta kysytään viimeisiä sanojasi.", ", tämä tietoo saattaa sinut pelastaa.", ", jos eksyt unessasi metsään vain tämä saattaa johdattaa sinut sieltä pois.", ", kuiskaa se läheisesi korvaan vuosien päästä."
+            ", muista se kun sinulta kysytään viimeisiä sanojasi.", ", tämä tietoo saattaa sinut pelastaa.", ", jos eksyt unessasi metsään vain tämä saattaa johdattaa sinut sieltä pois.", ", kuiskaa se läheisesi korvaan vuosien päästä.", "säilytä muisto tästä sydämessäsi.", 
+            ", tunnet nyt olevasi voittamaton."
         };
 
 
